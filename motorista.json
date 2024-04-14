@@ -1,0 +1,50 @@
+{
+    "motorista":{
+        "nota": "5",
+        "nome": "luiz",
+        "corridas":[
+            {
+                "nota": "5",
+                "distancia": "15.67",
+                "valor": "15.50",
+                "passageiro":{
+                    "nome": "Roberto",
+                    "documento": "401.103.288-33"
+
+                }
+
+            },
+            {
+                "nota": "4",
+                "distancia": "20.45",
+                "valor": "32.75",
+                "passageiro":{
+                    "nome": "Juliana",
+                    "documento": "165.984.126-14"
+
+                }
+
+            },
+            {
+                "nota": "5",
+                "distancia": "5.88",
+                "valor": "7.90",
+                "passageiro":{
+                    "nome": "Thomas",
+                    "documento": "478.897.369-74"
+
+                }
+
+            }
+
+
+        ]
+
+
+
+    }
+
+
+
+
+}

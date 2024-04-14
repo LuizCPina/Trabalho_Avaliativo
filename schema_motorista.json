@@ -1,0 +1,13 @@
+"motorista": {
+    "nota": "int", // Nota média do motorista
+    "nome": "string", // Nome do motorista
+    "corridas": [{
+      "nota": "int", // Nota da corrida
+      "distancia": "float", // Distância da corrida em quilômetros
+      "valor": "float", // Valor da corrida em reais
+      "passageiro": {
+        "nome": "string", // Nome do passageiro
+        "documento": "string" // Número do documento do passageiro (CPF ou RG)
+      }
+    }]
+  }
